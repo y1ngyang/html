@@ -11,10 +11,9 @@ services:
 - heading: Data Science
   description: ''
   icon: "/uploads/2019/01/03/cameraML.jpg"
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
+- description: Performing visualizations to support the Health Sector.
   heading: Health
-  icon: "/uploads/2017/11/13/health.png"
+  icon: "/uploads/2019/01/03/medicalanalysis.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
