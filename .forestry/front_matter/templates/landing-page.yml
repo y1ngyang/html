@@ -7,23 +7,24 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: Giselle Espada
   config:
     required: true
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: 'Regis University '
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: Engineering and Data Sciences
 - type: file
   name: banner_image
   label: Hero Image
   description: 'Dimensions: 1200px by 580px'
   config:
     maxSize: '2'
+  default: "/uploads/2019/01/03/dspath.png"
 - type: field_group
   name: hero_button
   label: Hero Button
@@ -67,6 +68,7 @@ fields:
   name: show_news
   label: Show News?
   description: Enables a news section with a twitter feed & latest posts
+  default: false
 - type: image_gallery
   name: partners
   label: Partner Logos
