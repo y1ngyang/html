@@ -29,3 +29,4 @@ fields:
   default: ''
 pages:
 - _projects/a-i.md
+- _projects/who-am-i.md
