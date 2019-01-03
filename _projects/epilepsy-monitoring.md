@@ -1,16 +1,16 @@
 ---
-title: Portable EEG Montoring Device
+title: Computer Vision
 date: 2016-04-20 00:00:00 +0000
 categories: []
 description: A portable device for epileptic patients.
-banner_image: "/uploads/2018/02/17/neurons.jpg"
+banner_image: "/uploads/2019/01/03/Computer_vision_technology_v2.png"
 sub_heading: A post-modern taking on Engineering in the Digital World
 tags:
 - engineering
 - research
 slug: ''
----
 
+---
 ## Overview
 
 Epilepsy is a brain disorder that affects millions of North Americans. Characterized by abnormal neuronal signaling, symptoms of epilepsy are change in emotion, change in behavior, loss of consciousness, muscle spasms and convulsions.  
