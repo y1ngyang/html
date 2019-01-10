@@ -24,7 +24,7 @@ fields:
   description: 'Dimensions: 1200px by 580px'
   config:
     maxSize: '2'
-  default: "/uploads/2019/01/03/dspath.png"
+  default: "/uploads/2019/01/10/istockphoto-924930946-1024x1024.jpg"
 - type: field_group
   name: hero_button
   label: Hero Button
@@ -69,9 +69,6 @@ fields:
   label: Show News?
   description: Enables a news section with a twitter feed & latest posts
   default: false
-- type: image_gallery
-  name: partners
-  label: Partner Logos
 - type: boolean
   name: show_staff
   label: Show Staff?
@@ -81,5 +78,10 @@ fields:
   type: text
   hidden: true
   default: home
+- type: file
+  name: datasciencepath
+  label: datasciencepath
+  hidden: false
+  default: "/uploads/2019/01/03/dspath.png"
 pages:
 - index.md
