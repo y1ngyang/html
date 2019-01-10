@@ -5,14 +5,9 @@ role:
 - advisor
 - board
 sub_heading: CEO
-thumbnail: "/uploads/2018/12/07/compass.jpg"
+thumbnail: "/uploads/2019/01/10/Screen Shot 2019-01-09 at 9.05.12 PM.png"
 email: Giselle.espada@gmail.com
-linkedin: ''
+linkedin: https://www.linkedin.com/in/gespada/
 layout: person
 
 ---
-Martin Marino joined Belkirk in 2016 as an advisor and member of the Board.
-
-Martin has his master's degree in Finance and has started three successful engineering-related ventures since 2012, and currently advises the boards of United Technologies and Bechtel.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
