@@ -25,6 +25,7 @@ hero_button:
   href: "/about"
 show_news: false
 show_staff: false
+datasciencepath: "/uploads/2019/01/03/dspath.png"
 menu:
   navigation:
     identifier: _index
