@@ -18,7 +18,7 @@ services:
 - heading: Analytics
   description: ''
   icon: "/uploads/2019/01/10/unnamed-chunk-18-1.png"
-sub_heading: Engineering and Data Sciences
+sub_heading: ''
 textline: ''
 hero_button:
   text: Learn more
