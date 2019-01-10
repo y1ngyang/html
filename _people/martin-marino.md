@@ -11,4 +11,3 @@ linkedin: https://www.linkedin.com/in/gespada/
 layout: person
 
 ---
-[Download File](https://www.linkedin.com/in/gespada/ "Download File")
