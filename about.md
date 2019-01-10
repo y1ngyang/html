@@ -5,8 +5,7 @@ banner_image: "/uploads/2019/01/10/Screen Shot 2019-01-09 at 9.05.12 PM.png"
 heading: About me
 sub_heading: ''
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: ''
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 services:
@@ -25,4 +24,4 @@ menu:
     weight: 2
 
 ---
-My name is Giselle Espada currently a postgrad student in Data Science specializing in Data Engineering from Regis University in Colorado. 
+My name is Giselle Espada currently a postgrad student in Data Science specializing in Data Engineering from Regis University in Colorado.
