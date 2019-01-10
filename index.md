@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2019/01/10/Screen Shot 2019-01-09 at 9.03.31 PM.png"
+banner_image: "/2019/01/10/istockphoto-924930946-1024x1024.jpg"
 layout: landing-page
 heading: Welcome to my website!
 partners:
