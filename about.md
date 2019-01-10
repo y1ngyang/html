@@ -15,6 +15,7 @@ services:
 - heading: Data Science
   description: ''
   icon: ''
+datasciencepath: "/2019/01/10/me.png"
 menu:
   footer:
     identifier: _about
