@@ -1,0 +1,6 @@
+---
+navigation:
+- identifier: _index
+  weight: 1
+  url: www.gespada.com
+  title: Home

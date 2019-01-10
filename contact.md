@@ -9,7 +9,7 @@ datasciencepath: "/2019/01/10/Components_of_Stress_Tensor.jpg"
 menu:
   navigation:
     identifier: _contact
-    weight: 4
+    weight: 5
 
 ---
 ## Hours of Operation

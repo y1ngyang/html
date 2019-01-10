@@ -19,7 +19,7 @@ datasciencepath: "/2019/01/10/me.png"
 menu:
   footer:
     identifier: _about
-    weight: 3
+    weight: 2
   navigation:
     identifier: _about
     weight: 2
