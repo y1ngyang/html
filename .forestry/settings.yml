@@ -46,4 +46,4 @@ build:
   - "- JEKYLL_ENV=staging="
   publish_env:
   - "- JEKYLL_ENV=production="
-  output_directory: _forestry_site
+  output_directory: _forestry
