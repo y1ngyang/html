@@ -13,17 +13,12 @@ sections:
   - post
 - type: jekyll-pages
   label: Pages
-  create: all
+  create: documents
+  new_doc_ext: ".md"
   templates:
+  - information-yml
   - landing-page
   - default
-- type: directory
-  path: _people
-  label: People
-  create: all
-  match: "*"
-  templates:
-  - person
 - type: directory
   path: _projects
   label: Projects
