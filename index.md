@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/2019/01/10/istockphoto-924930946-1024x1024.jpg"
+banner_image: "/2019/01/10/Arrangement_hyperplans.png"
 layout: landing-page
 heading: Welcome to my website!
 partners:
