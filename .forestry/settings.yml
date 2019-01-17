@@ -14,7 +14,7 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: documents
-  new_doc_ext: md
+  new_doc_ext: ".md"
   templates:
   - information-yml
   - landing-page
@@ -23,7 +23,7 @@ sections:
   path: _projects
   label: Projects
   create: all
-  match: "*"
+  match: "*.ipynb"
   templates:
   - project
 - type: document
