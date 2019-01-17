@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/2019/01/10/Components_of_Stress_Tensor.jpg"
+banner_image: ''
 layout: landing-page
 heading: Welcome to my website!
 partners:
