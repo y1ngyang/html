@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/2019/01/10/Arrangement_hyperplans.png"
+banner_image: "/2019/01/10/Components_of_Stress_Tensor.jpg"
 layout: landing-page
 heading: Welcome to my website!
 partners:
@@ -28,3 +28,4 @@ show_staff: false
 datasciencepath: "/uploads/2019/01/03/dspath.png"
 
 ---
+![](/uploads/2019/01/10/istockphoto-924930946-1024x1024.jpg)
