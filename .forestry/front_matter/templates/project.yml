@@ -27,9 +27,3 @@ fields:
   type: text
   hidden: false
   default: ''
-pages:
-- _projects/spark.md
-- _projects/jupiterhub.md
-- _projects/a-i.md
-- _projects/who-am-i.md
-- _projects/docker.md
